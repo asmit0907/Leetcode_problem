@@ -1,7 +1,7 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
         nums.sort()
-        res = []
+        nums1 = []
         n = len(nums)
         
         for i in range(n):
@@ -14,7 +14,7 @@ class Solution:
                 complement = -(nums[i] + nums[j])
                 
                 if complement in seen:
-                    res.append([nums[i], complement, nums[j]])
+                    nums1.append([nums[i], complement, nums[j]])
                     
                     while j + 1 < n and nums[j] == nums[j + 1]:
                         j += 1
@@ -22,4 +22,4 @@ class Solution:
                 seen.add(nums[j])
                 j += 1
                 
-        return res
+        return nums1
