@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/asmit0907/Leetcode_problem/tree/master/0412-fizz-buzz) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/asmit0907/Leetcode_problem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asmit0907/Leetcode_problem/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/asmit0907/Leetcode_problem/tree/master/0412-fizz-buzz) |
 | [0819-most-common-word](https://github.com/asmit0907/Leetcode_problem/tree/master/0819-most-common-word) |
 ## Stack
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/asmit0907/Leetcode_problem/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
