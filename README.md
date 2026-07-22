@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/asmit0907/Leetcode_problem/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/asmit0907/Leetcode_problem/tree/master/0485-max-consecutive-ones) |
 | [0819-most-common-word](https://github.com/asmit0907/Leetcode_problem/tree/master/0819-most-common-word) |
 | [0905-sort-array-by-parity](https://github.com/asmit0907/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/asmit0907/Leetcode_problem/tree/master/0015-3sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/asmit0907/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
 | [1833-maximum-ice-cream-bars](https://github.com/asmit0907/Leetcode_problem/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0819-most-common-word](https://github.com/asmit0907/Leetcode_problem/tree/master/0819-most-common-word) |
 ## Heap (Priority Queue)
 |  |
