@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/asmit0907/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0819-most-common-word](https://github.com/asmit0907/Leetcode_problem/tree/master/0819-most-common-word) |
 | [0905-sort-array-by-parity](https://github.com/asmit0907/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/asmit0907/Leetcode_problem/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/asmit0907/Leetcode_problem/tree/master/1833-maximum-ice-cream-bars) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/asmit0907/Leetcode_problem/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asmit0907/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/asmit0907/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/asmit0907/Leetcode_problem/tree/master/1833-maximum-ice-cream-bars) |
 | [3536-maximum-product-of-two-digits](https://github.com/asmit0907/Leetcode_problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
 | ------- |
