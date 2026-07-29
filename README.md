@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/asmit0907/Leetcode_problem/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/0074-search-a-2d-matrix) |
+| [0139-word-break](https://github.com/asmit0907/Leetcode_problem/tree/master/0139-word-break) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/asmit0907/Leetcode_problem/tree/master/0485-max-consecutive-ones) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/asmit0907/Leetcode_problem/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/asmit0907/Leetcode_problem/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/asmit0907/Leetcode_problem/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/asmit0907/Leetcode_problem/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/asmit0907/Leetcode_problem/tree/master/0412-fizz-buzz) |
 | [0819-most-common-word](https://github.com/asmit0907/Leetcode_problem/tree/master/0819-most-common-word) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/asmit0907/Leetcode_problem/tree/master/0139-word-break) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0819-most-common-word](https://github.com/asmit0907/Leetcode_problem/tree/master/0819-most-common-word) |
 ## Heap (Priority Queue)
@@ -94,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/asmit0907/Leetcode_problem/tree/master/2778-sum-of-squares-of-special-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/asmit0907/Leetcode_problem/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/asmit0907/Leetcode_problem/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/asmit0907/Leetcode_problem/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
