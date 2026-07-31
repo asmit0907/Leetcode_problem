@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/asmit0907/Leetcode_problem/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/asmit0907/Leetcode_problem/tree/master/1833-maximum-ice-cream-bars) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/asmit0907/Leetcode_problem/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/asmit0907/Leetcode_problem/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asmit0907/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/asmit0907/Leetcode_problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/asmit0907/Leetcode_problem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
