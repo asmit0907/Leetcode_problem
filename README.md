@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/asmit0907/Leetcode_problem/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/asmit0907/Leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/asmit0907/Leetcode_problem/tree/master/0139-word-break) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/asmit0907/Leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/asmit0907/Leetcode_problem/tree/master/0139-word-break) |
 ## Trie
 |  |
