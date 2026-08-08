@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/asmit0907/Leetcode_problem/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asmit0907/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/asmit0907/Leetcode_problem/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/asmit0907/Leetcode_problem/tree/master/0819-most-common-word) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/asmit0907/Leetcode_problem/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/asmit0907/Leetcode_problem/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
