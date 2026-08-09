@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asmit0907/Leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/asmit0907/Leetcode_problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/asmit0907/Leetcode_problem/tree/master/0139-word-break) |
+| [0189-rotate-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0189-rotate-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmit0907/Leetcode_problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/asmit0907/Leetcode_problem/tree/master/0485-max-consecutive-ones) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/asmit0907/Leetcode_problem/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/asmit0907/Leetcode_problem/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asmit0907/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/asmit0907/Leetcode_problem/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/asmit0907/Leetcode_problem/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/asmit0907/Leetcode_problem/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/asmit0907/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asmit0907/Leetcode_problem/tree/master/2149-rearrange-array-elements-by-sign) |
