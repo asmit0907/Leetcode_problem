@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/asmit0907/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/asmit0907/Leetcode_problem/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/asmit0907/Leetcode_problem/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/asmit0907/Leetcode_problem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/asmit0907/Leetcode_problem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
