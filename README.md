@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/asmit0907/Leetcode_problem/tree/master/0412-fizz-buzz) |
 | [0819-most-common-word](https://github.com/asmit0907/Leetcode_problem/tree/master/0819-most-common-word) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asmit0907/Leetcode_problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/asmit0907/Leetcode_problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/asmit0907/Leetcode_problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -149,5 +150,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/asmit0907/Leetcode_problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/asmit0907/Leetcode_problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
