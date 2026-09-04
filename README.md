@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/asmit0907/Leetcode_problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asmit0907/Leetcode_problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/asmit0907/Leetcode_problem/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/asmit0907/Leetcode_problem/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/asmit0907/Leetcode_problem/tree/master/1732-find-the-highest-altitude) |
+| [3903-smallest-stable-index-i](https://github.com/asmit0907/Leetcode_problem/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
