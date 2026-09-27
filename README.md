@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/asmit0907/Leetcode_problem/tree/master/0189-rotate-array) |
+| [0233-number-of-digit-one](https://github.com/asmit0907/Leetcode_problem/tree/master/0233-number-of-digit-one) |
 | [0412-fizz-buzz](https://github.com/asmit0907/Leetcode_problem/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/asmit0907/Leetcode_problem/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asmit0907/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asmit0907/Leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/asmit0907/Leetcode_problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/asmit0907/Leetcode_problem/tree/master/0139-word-break) |
+| [0233-number-of-digit-one](https://github.com/asmit0907/Leetcode_problem/tree/master/0233-number-of-digit-one) |
 ## Trie
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/asmit0907/Leetcode_problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/asmit0907/Leetcode_problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/asmit0907/Leetcode_problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/asmit0907/Leetcode_problem/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
